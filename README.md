@@ -1,0 +1,2 @@
+# Syntecxhub_Student_Management_System
+Syntecxhub_Student_Management_System-Description
